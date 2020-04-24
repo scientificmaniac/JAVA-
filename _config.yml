@@ -1,7 +1,7 @@
 # Site settings
 title:Nauchnyy-urod_Personal-websiteux 
 SEOTitle:Nauchnyy-urod的博客 | Nauchnyy-urod_Personal-websiteux
-header-img: img/post-bg-css.jpg
+header-img:img/post-bg-css.jpg
 email:Nauchnyy-urod@outlook.com
 description: "“我自愿来到这里，为了拯救西班牙和全世界的自由，如果需要，我将献出最后一滴血”"
 keyword:"Nauchnyy-urod的博客 | Nauchnyy-urod_Personal-websiteux"
@@ -15,7 +15,7 @@ future: true
 RSS: false
 #weibo_username:     huxpro
 #zhihu_username:     huxpro
-github_username:    Nauchnyy-urod
+github_username:Nauchnyy-urod
 #twitter_username:   huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
