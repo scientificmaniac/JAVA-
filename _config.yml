@@ -1,11 +1,11 @@
 # Site settings
 title:Nauchnyy-urod_Personal-websiteux 
-SEOTitle: Nauchnyy-urod的博客 | Nauchnyy-urod_Personal-websiteux
-header-img: img/home-bg.jpg
-email: Nauchnyy-urod@outlook.com
+SEOTitle:Nauchnyy-urod的博客 | Nauchnyy-urod_Personal-websiteux
+header-img: img/post-bg-css.jpg
+email:Nauchnyy-urod@outlook.com
 description: "“我自愿来到这里，为了拯救西班牙和全世界的自由，如果需要，我将献出最后一滴血”"
-keyword: "Nauchnyy-urod的博客 | Nauchnyy-urod_Personal-websiteux"
-url: "https://scientificmaniac/scientificmaniac.github.io              # your host, for absolute URL
+keyword:"Nauchnyy-urod的博客 | Nauchnyy-urod_Personal-websiteux"
+url:"https://scientificmaniac/scientificmaniac.github.io              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
